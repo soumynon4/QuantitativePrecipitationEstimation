@@ -4,4 +4,4 @@
 # @File     : tmp.py
 # @Project  : QuantitativePrecipitationEstimation
 
-print("")
+print("X")
