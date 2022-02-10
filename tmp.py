@@ -4,4 +4,4 @@
 # @File     : tmp.py
 # @Project  : QuantitativePrecipitationEstimation
 
-print("Remote Client Test.")
+print("")
