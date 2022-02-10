@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e68e6144-c738-4d12-a317-0f1999f2395e" name="36">
+        <fileTransfer accessType="SFTP" host="192.168.1.36" port="22" sshConfigId="f9d437fe-2364-4c83-bea9-a8c8c2ba9d32" sshConfig="zhangjianchang@192.168.1.36:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="38706bb0-9e28-47f2-80d4-a42bf205cb42" name="60">
+        <fileTransfer accessType="SFTP" host="192.168.1.60" port="22" sshConfigId="a8ee7bd1-7224-4d66-9a3d-b759870807f5" sshConfig="zhangjianchang@192.168.1.60:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bdf55851-7e93-4d42-be4e-9ce888484048" name="69">
+        <fileTransfer accessType="SFTP" host="192.168.1.69" port="22" sshConfigId="8ee39f05-cc93-4434-9b68-0f6160661465" sshConfig="zhangjianchang@192.168.1.69:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="042d7b1e-cb9f-4e28-82fd-566b3cb9c12e" name="62">
+        <fileTransfer accessType="SFTP" host="192.168.1.62" port="22" sshConfigId="bff41083-74a6-4573-9450-17e6c7d43876" sshConfig="zhangjianchang@192.168.1.62:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

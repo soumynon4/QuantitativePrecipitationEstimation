@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="36">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/data3/zhangjianchang/QuantitativePrecipitationEstimation" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="60">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/8T/pysteps" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="62">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/data8T/privateData/pysteps" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="69">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/data8T_3/pysteps" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
